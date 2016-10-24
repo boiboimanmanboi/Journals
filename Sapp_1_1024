@@ -1,0 +1,6 @@
+The progress we've mage made since thrusday is getting the ultrasonic sensor to display the distance back on the serial moniter.
+M: Combine piezo code with the ultrasonic code
+T: Get the piezo to beep at a certain distance
+W: Fix all bugs in the code
+Th: Make it portable with a battery
+F: Test the code on the arduino
